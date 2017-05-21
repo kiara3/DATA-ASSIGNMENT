@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}ABSTRACT}{1}
+\contentsline {section}{\numberline {2}INTRODUCTION}{1}
+\contentsline {subsection}{\numberline {2.1}Purpose}{1}
+\contentsline {subsection}{\numberline {2.2}Student challenges}{1}
+\contentsline {subsection}{\numberline {2.3}Project goals}{2}
+\contentsline {subsection}{\numberline {2.4}Definitions, acronyms and abbreviations}{2}
+\contentsline {section}{\numberline {3}PROJECT RESULTS}{2}
+\contentsline {subsection}{\numberline {3.1}Product functionality and screenshots}{2}
+\contentsline {section}{\numberline {4}LIMITATIONS AND NEXT STEPS}{3}
+\contentsline {subsection}{\numberline {4.1}Limitations}{3}
+\contentsline {subsection}{\numberline {4.2}Solutions}{3}
+\contentsline {subsection}{\numberline {4.3}Next steps}{3}
+\contentsline {section}{\numberline {5}PROCEDURES}{4}
+\contentsline {section}{\numberline {6}CONCLUSION}{4}
